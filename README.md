@@ -1,6 +1,8 @@
 # modulo_cloud_lab_1
 Laboratorio Ejercicio 1
 
+resultado -> https://zhery4.github.io/modulo_cloud_lab_1/#/
+
 Pasos Despliegue Manual
 
 # 1 Subimos a Main todos la app con todos los cambios necesarios
